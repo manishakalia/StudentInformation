@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#ffffff</color>
+    <color name="dark_grey">#424242</color>
+    <color name="medium_grey">#9E9E9E</color>
+    <color name="button_grey">#757575</color>
+    <color name="amberlite">#FFC107</color>
+    <item name="blue" type="color">#FF33B5E5</item>
+    <color name="transparent">#00000000</color>
+    <color name="black">#000000</color>
+    <color name="headerfooter">#e9967a</color>
+    <color name="body">#ffdab9</color>
+    <color name="grey">#F2F2F2</color>
+    <color name="gray">#F2F2F2</color>
+    <color name="red">#FF0000</color>
+    <color name="pds_button_bg">#90CAF9</color>
+    <color name="exlistbg_group">#8C9EFF</color>
+    <color name="exlistbg_child">#304FFE</color>
+</resources>
